@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/idoi-site/static/css/main.2440ea74.css",
-    "main.js": "/idoi-site/static/js/main.c91109e4.js",
+    "main.js": "/idoi-site/static/js/main.dba9a9ca.js",
     "static/js/453.a2c133d9.chunk.js": "/idoi-site/static/js/453.a2c133d9.chunk.js",
     "static/media/ribon2.PNG": "/idoi-site/static/media/ribon2.b0002000dff30417117c.PNG",
     "static/media/roboto-latin-500-normal.woff2": "/idoi-site/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -62,11 +62,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/idoi-site/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/idoi-site/index.html",
     "main.2440ea74.css.map": "/idoi-site/static/css/main.2440ea74.css.map",
-    "main.c91109e4.js.map": "/idoi-site/static/js/main.c91109e4.js.map",
+    "main.dba9a9ca.js.map": "/idoi-site/static/js/main.dba9a9ca.js.map",
     "453.a2c133d9.chunk.js.map": "/idoi-site/static/js/453.a2c133d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2440ea74.css",
-    "static/js/main.c91109e4.js"
+    "static/js/main.dba9a9ca.js"
   ]
 }

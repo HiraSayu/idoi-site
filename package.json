@@ -24,7 +24,7 @@
     "styled-components": "^6.1.8",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://HiraSayu.github.io/idoi-site/",
+  "homepage": "https://hirasayu.github.io/idoi-site/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

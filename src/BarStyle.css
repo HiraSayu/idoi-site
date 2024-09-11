@@ -1,0 +1,21 @@
+.AppBar{
+    background-color: aqua;
+}
+
+.headB {
+    margin: 5px;
+    text-decoration: none;
+    color:#eea0c2;
+  }
+
+  .DrawLink{
+    text-decoration: none;
+    color:#494949;
+    font-weight: bold;
+  }
+
+  .logo{
+    text-decoration: none;
+    color:#eea0c2;
+  }
+  

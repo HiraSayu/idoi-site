@@ -1,0 +1,13 @@
+.FadeElem {
+    display: inline-block;
+    transition: opacity 0.5s cubic-bezier(0.47, 0, 0.745, 0.715);
+  }
+  
+  .FadeElem.inView {
+    opacity: 1;
+  }
+  
+  .FadeElem:not(.inView) {
+    opacity: 0;
+  }
+  

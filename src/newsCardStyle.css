@@ -1,0 +1,20 @@
+.NewsCard{
+    padding-left:20px;
+    padding-right:20px;
+    width: 600px;
+}
+
+.title{
+    font-size: 20px;
+    color:#555555;
+}
+
+.date{
+    font-size: 15px;
+    color:#555555;
+}
+
+.content{
+    font-size: 15px;
+    color:#555555;
+}
